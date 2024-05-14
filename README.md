@@ -1,2 +1,2 @@
 # ShutDown
-A Program That ShutDowns Your Computer (A C++ Program)
+A C++ Program That ShutDowns Your Computer (A C++ Program)
